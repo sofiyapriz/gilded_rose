@@ -1,0 +1,3 @@
+C:/Users/admin/source/repos/library_refactor/build/CMakeFiles/app.dir
+C:/Users/admin/source/repos/library_refactor/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/admin/source/repos/library_refactor/build/CMakeFiles/ZERO_CHECK.dir
